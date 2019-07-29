@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2018 Luis awais-malik, https://luisbergmann.com/
+ * Copyright (C) 2019 Hussain & Altaf  awais-malik, https://xyz/
  */
 var CoreAudio = new function() {
 
