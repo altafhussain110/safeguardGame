@@ -1,8 +1,5 @@
 /**
- * Core
- * MIT licensed
- *
- * Copyright (C) 2018 Hakim El Hattab, http://hakim.se
+ * Copyright (C) 2019 Altaf Hussain, http://altaf_rehabri
  */
 var Core = new function(){
 

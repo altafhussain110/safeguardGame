@@ -1,5 +1,5 @@
 /**
- * Copyright (C) 2018 Luis Bergmann, https://luisbergmann.com/
+ * Copyright (C) 2018 Luis awais-malik, https://luisbergmann.com/
  */
 var CoreAudio = new function() {
 
